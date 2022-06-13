@@ -1,2 +1,2 @@
 # Odin_Recipes
-A simple project with HTML & CSS
+A simple project with HTML
